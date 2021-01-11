@@ -1,4 +1,4 @@
-# StudiCase
+# StudiKasus
 
 Diberi nama promos karena aplikasi ini merupakan pengembangan dari aplikasi sebelumnya dengan menambahkan beberapa fitur baru dan membuat code lebih rapi
 
