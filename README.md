@@ -1,3 +1,5 @@
+# Arif Wahyu Prasetyo 19.11.2734
+
 # StudiKasus
 
 Diberi nama promos karena aplikasi ini merupakan pengembangan dari aplikasi sebelumnya dengan menambahkan beberapa fitur baru dan membuat code lebih rapi
